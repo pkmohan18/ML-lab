@@ -1,3 +1,4 @@
+shape,size,brigtness,surface,layer,target
 circular,large,light,smooth,thick,malignant
 circular,large,light,irregular,thick,malignant
 oval,small,light,smooth,thin,benign
